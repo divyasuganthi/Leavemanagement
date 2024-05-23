@@ -11,3 +11,10 @@
      Node.js and npm installed on your machine
      A modern web browser (Chrome, Firefox, Edge)
      A code editor (VS Code recommended)
+
+#Installation
+   Clone the repository:
+      git clone https://github.com/yourusername/leave-management-system.git
+  Navigate to the project directory:
+      cd leave-management-system
+
