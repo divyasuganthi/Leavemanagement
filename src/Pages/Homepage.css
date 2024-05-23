@@ -1,0 +1,36 @@
+
+
+.Content {
+    text-align: center;
+    margin-top: 20px;
+    color:aliceblue;
+  }
+  
+  .con {
+    margin-top: 20px;
+  }
+  
+  nav {
+   
+    padding: 15px;
+    border-radius: 5px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    margin: 10px 0;
+  }
+  
+  nav ul li h2 a {
+    color: white; 
+    text-decoration: none;
+  }
+  
+  nav ul li h2 a:hover {
+    text-decoration: underline;
+  }
+  

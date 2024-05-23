@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+background-image: url(website.jpg);
+  
+  
+}
+
+.login-container {
+ background-image: url(lock.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px ;
+  text-align: center;
+  width: 500px;
+  
+}
+
+.login-container h2 {
+  margin-bottom: 20px;
+  
+ 
+}
+
+.form-group {
+  margin-bottom: 15px;
+  text-align: left;
+ 
+  
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  display: inline;
+  
+}
+
+.form-group input {
+  width: 100px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  
+}
+
+button {
+  width: 300px;
+  padding: 10px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color:violet;
+}
+
+.error-message {
+  color: red;
+}
